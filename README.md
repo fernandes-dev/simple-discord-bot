@@ -21,6 +21,14 @@ yarn
 
 ## Usage
 
+First, register bot commands once time by executing the register-commands.js file with following cli command:
+
+```shell
+node register-commands.js
+```
+
+Next, start bot with:
+
 ```sh
 yarn dev
 ```
